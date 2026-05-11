@@ -8,9 +8,13 @@ Algorithm for DEtection and Characterization of cOastal tiDal wEtlands change (D
 
 Please get in touch with Xiucheng Yang (xiucheng.yang@uconn.edu;xiuchengyang@uvic.ca), if you have any questions.
 
-**Interactive maps (US Tidal Wetland Cover Change)** are available at [GEE APP for tidal wetlands in the US](https://gers.users.earthengine.app/view/tidalwetlandcover). 
+**Interactive maps (US Tidal Wetland Cover Change)** are available at [GEE APP for tidal wetland covers in the US](https://gers.users.earthengine.app/view/tidalwetlandcover). 
+
+**Interactive maps (US Tidal marsh condition change and disturbance)** are available at [GEE APP for tidal marsh condition change in the US](https://gers.users.earthengine.app/view/ustidalmarsh). 
+
 **Interactive maps (Florida Mangrove Resilience)** are available at [GEE APP for US Mangrove Disturbance, Dieback, and Recovery](https://gers.users.earthengine.app/view/tidalwetlandcover). 
-**Interactive maps (Canada Tidal Marsh)** are available at [GEE APP for tidal wetlands in Canada](https://xiucheng.projects.earthengine.app/view/canadamarsh). 
+
+**Interactive maps (Canada Tidal Marsh)** are available at [GEE APP for tidal marsh dynamics in Canada](https://xiucheng.projects.earthengine.app/view/canadamarsh). 
 
 **Please cite the following paper** 
 
