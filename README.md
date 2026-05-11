@@ -10,7 +10,7 @@ Please get in touch with Xiucheng Yang (xiucheng.yang@uconn.edu;xiuchengyang@uvi
 
 **Interactive maps (US Tidal Wetland Cover Change)** are available at [GEE APP for tidal wetland covers in the US](https://gers.users.earthengine.app/view/tidalwetlandcover). 
 
-**Interactive maps (US Tidal marsh condition change and disturbance)** are available at [GEE APP for tidal marsh condition change in the US](https://gers.users.earthengine.app/view/ustidalmarsh). 
+**Interactive maps (US Tidal marsh condition change and disturbance)** are available at [GEE APP for tidal marsh condition change in the US](https://ee-gers.projects.earthengine.app/view/ustidalmarsh). 
 
 **Interactive maps (Florida Mangrove Resilience)** are available at [GEE APP for US Mangrove Disturbance, Dieback, and Recovery](https://gers.users.earthengine.app/view/tidalwetlandcover). 
 
