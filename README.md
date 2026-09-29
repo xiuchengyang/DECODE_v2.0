@@ -37,34 +37,31 @@ Tide Model Driver source:
 
 ## Citation
 
-### DECODE v2, AlphaEarth integration, and the 10 m product
-
-The annual 10 m tidal marsh extent and change maps for temperate North America
-(2017-2024) were generated using the integrated AlphaEarth + DECODE framework.
-The product is available through the
-[interactive map](https://xiucheng.projects.earthengine.app/view/marsh10m).
-Please cite the following preprint when using DECODE v2 or this 10 m product:
-
-Yang, X., Li, M., Suh, J. W., Zhu, Z., Baum, J. K., and Knox, S. H. (2026).
-From Extent to Change: AlphaEarth and Time Series Analysis for Tidal Marsh
-Monitoring. *SSRN*. [https://doi.org/10.2139/ssrn.7317755](https://doi.org/10.2139/ssrn.7317755).
-
-### DECODE method and related applications
+### DECODE
 
 Yang, X., Zhu, Z., Qiu, S., Kroeger, K. D., Zhu, Z., and Covington, S. (2022).
 Detection and characterization of coastal tidal wetland change in the
 northeastern US using Landsat time series. *Remote Sensing of Environment*,
 276, 113047. [https://doi.org/10.1016/j.rse.2022.113047](https://doi.org/10.1016/j.rse.2022.113047).
 
-Yang, X., Zhu, Z., Kroeger, K. D., Qiu, S., Covington, S., Conrad, J. R., and
-Zhu, Z. (2024). Tracking mangrove condition changes using dense Landsat time
-series. *Remote Sensing of Environment*, 315, 114461.
-[https://doi.org/10.1016/j.rse.2024.114461](https://doi.org/10.1016/j.rse.2024.114461).
+### US tidal wetland dynamics
 
 Yang, X., Qiu, S., Kroeger, K. D., Zhu, Z., Covington, S., Murray, N. J., and
 Zhu, Z. (2026). The accelerating loss and shifting dynamics of US tidal
 wetlands. *Nature Communications*, 17, 4332.
 [https://doi.org/10.1038/s41467-026-71464-2](https://doi.org/10.1038/s41467-026-71464-2).
+
+### DECODE v2.0, AlphaEarth integration, and the 10 m product
+
+The annual 10 m tidal marsh extent and change maps for the US and Canada
+(2017-2024) were generated using the integrated AlphaEarth + DECODE framework.
+The product is available through the
+[interactive map](https://xiucheng.projects.earthengine.app/view/marsh10m).
+
+Yang, X., Li, M., Suh, J. W., Zhu, Z., Baum, J. K., and Knox, S. H. (2026).
+From Extent to Change: AlphaEarth and Time Series Analysis for Tidal Marsh
+Monitoring. *Remote Sensing of Environment* (under review). Preprint available
+at [https://doi.org/10.2139/ssrn.7317755](https://doi.org/10.2139/ssrn.7317755).
 
 ### Tide dependencies
 
