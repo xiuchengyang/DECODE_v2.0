@@ -18,10 +18,10 @@ Tide Model Driver data link. The downloaded file is saved under
 
 Please cite:
 
-Hart-Davis, M., Piccioni, G., Dettmering, D., Schwatke, C., Passaro, M.,
-and Seitz, F. (2021). EOT20 - A global Empirical Ocean Tide model from
-multi-mission satellite altimetry. SEANOE.
-[https://doi.org/10.17882/79489](https://doi.org/10.17882/79489).
+Hart-Davis, M. G., Piccioni, G., Dettmering, D., Schwatke, C., Passaro, M.,
+and Seitz, F. (2021). EOT20: a global ocean tide model from multi-mission
+satellite altimetry. *Earth System Science Data*, 13, 3869-3884.
+[https://doi.org/10.5194/essd-13-3869-2021](https://doi.org/10.5194/essd-13-3869-2021).
 
 **Interactive maps (US Tidal Wetland Cover Change)** are available at [GEE APP for tidal wetland covers in the US](https://gers.users.earthengine.app/view/tidalwetlandcover). 
 
