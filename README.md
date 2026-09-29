@@ -15,19 +15,6 @@ and accounts for tidal effects during time-series modeling.
 For questions, contact Xiucheng Yang at xiucheng.yang@uconn.edu or
 xiuchengyang@uvic.ca.
 
-## Dependencies
-
-DECODE uses the Tide Model Driver (TMD) and the EOT20 ocean tide model. These
-third-party files are not included in this repository.
-
-When `Main_DECODE_BatchRun.m` is run, `DownloadTMDFunctions.m` checks for the
-TMD functions and `DownloadEOT20Model.m` checks for the EOT20 model. Existing
-files are reused. Missing files are downloaded and saved under
-`TMD_functions/`, which is ignored by Git.
-
-Tide Model Driver source:
-[https://github.com/chadagreene/Tide-Model-Driver](https://github.com/chadagreene/Tide-Model-Driver)
-
 ## Citation
 
 **[DECODE]** Yang, X., Zhu, Z., Qiu, S., Kroeger, K. D., Zhu, Z., and Covington, S. (2022).
@@ -56,7 +43,20 @@ Monitoring. Preprint available at
 
 Interactive map: [US and Canada tidal marsh extent at 10 m](https://xiucheng.projects.earthengine.app/view/marsh10m).
 
-### Tide dependencies
+## Dependencies
+
+DECODE uses the Tide Model Driver (TMD) and the EOT20 ocean tide model. These
+third-party files are not included in this repository.
+
+When `Main_DECODE_BatchRun.m` is run, `DownloadTMDFunctions.m` checks for the
+TMD functions and `DownloadEOT20Model.m` checks for the EOT20 model. Existing
+files are reused. Missing files are downloaded and saved under
+`TMD_functions/`, which is ignored by Git.
+
+Tide Model Driver source:
+[https://github.com/chadagreene/Tide-Model-Driver](https://github.com/chadagreene/Tide-Model-Driver)
+
+Please cite the Tide Model Driver and EOT20:
 
 Greene, C. A., Erofeeva, S., Padman, L., Howard, S. L., Sutterley, T., and
 Egbert, G. (2024). Tide Model Driver for MATLAB. *Journal of Open Source
