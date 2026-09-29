@@ -30,34 +30,26 @@ Tide Model Driver source:
 
 ## Citation
 
-**[DECODE]**
-
-Yang, X., Zhu, Z., Qiu, S., Kroeger, K. D., Zhu, Z., and Covington, S. (2022).
+**[DECODE]** Yang, X., Zhu, Z., Qiu, S., Kroeger, K. D., Zhu, Z., and Covington, S. (2022).
 Detection and characterization of coastal tidal wetland change in the
 northeastern US using Landsat time series. *Remote Sensing of Environment*,
 276, 113047. [https://doi.org/10.1016/j.rse.2022.113047](https://doi.org/10.1016/j.rse.2022.113047).
 
-**[US Application]**
-
-Yang, X., Qiu, S., Kroeger, K. D., Zhu, Z., Covington, S., Murray, N. J., and
+**[US Application]** Yang, X., Qiu, S., Kroeger, K. D., Zhu, Z., Covington, S., Murray, N. J., and
 Zhu, Z. (2026). The accelerating loss and shifting dynamics of US tidal
 wetlands. *Nature Communications*, 17, 4332.
 [https://doi.org/10.1038/s41467-026-71464-2](https://doi.org/10.1038/s41467-026-71464-2).
 
 Interactive map: [US tidal wetland dynamics](https://gers.users.earthengine.app/view/tidalwetlandcover).
 
-**[DECODE v2]**
-
-Yang, X., Knox, S. H., Qiu, S., Kroeger, K. D., Zhu, Z., Covington, S., and
+**[DECODE v2]** Yang, X., Knox, S. H., Qiu, S., Kroeger, K. D., Zhu, Z., Covington, S., and
 Zhu, Z. (2026). Tracking US Tidal Marsh Extent and Change with Dense Landsat
 Time Series and Comparisons with Existing Products. *Remote Sensing of
 Environment* (under review).
 
 Interactive map: [US tidal marsh condition change](https://ee-gers.projects.earthengine.app/view/ustidalmarsh).
 
-**[DECODE+AlphaEarth]**
-
-Yang, X., Li, M., Suh, J. W., Zhu, Z., Baum, J. K., and Knox, S. H. (2026).
+**[DECODE+AlphaEarth]** Yang, X., Li, M., Suh, J. W., Zhu, Z., Baum, J. K., and Knox, S. H. (2026).
 From Extent to Change: AlphaEarth and Time Series Analysis for Tidal Marsh
 Monitoring. Preprint available at
 [https://doi.org/10.2139/ssrn.7317755](https://doi.org/10.2139/ssrn.7317755).
