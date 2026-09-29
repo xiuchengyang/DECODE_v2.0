@@ -30,6 +30,7 @@ Tide Model Driver source:
 
 ## Interactive maps
 
+- [North American 10 m tidal marsh maps (AlphaEarth + DECODE)](https://xiucheng.projects.earthengine.app/view/marsh10m)
 - [US tidal wetland cover change](https://gers.users.earthengine.app/view/tidalwetlandcover)
 - [US tidal marsh condition change and disturbance](https://ee-gers.projects.earthengine.app/view/ustidalmarsh)
 - [US mangrove disturbance, dieback, and recovery](https://gers.users.earthengine.app/view/tidalwetlandcover)
@@ -41,6 +42,8 @@ Tide Model Driver source:
 
 The annual 10 m tidal marsh extent and change maps for temperate North America
 (2017-2024) were generated using the integrated AlphaEarth + DECODE framework.
+The product is available through the
+[interactive map](https://xiucheng.projects.earthengine.app/view/marsh10m).
 Please cite the following preprint when using DECODE v2 or this 10 m product:
 
 Yang, X., Li, M., Suh, J. W., Zhu, Z., Baum, J. K., and Knox, S. H. (2026).
