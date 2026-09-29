@@ -8,6 +8,21 @@ Algorithm for DEtection and Characterization of cOastal tiDal wEtlands change (D
 
 Please get in touch with Xiucheng Yang (xiucheng.yang@uconn.edu;xiuchengyang@uvic.ca), if you have any questions.
 
+## EOT20 tide model
+
+The EOT20 ocean tide model is not included in this repository. When
+`Main_DECODE_BatchRun.m` is run for the first time,
+`DownloadEOT20Model.m` downloads and extracts the model from the official
+Tide Model Driver data link. The downloaded file is saved under
+`TMD_functions/TideModelData/` and is ignored by Git.
+
+Please cite:
+
+Hart-Davis, M., Piccioni, G., Dettmering, D., Schwatke, C., Passaro, M.,
+and Seitz, F. (2021). EOT20 - A global Empirical Ocean Tide model from
+multi-mission satellite altimetry. SEANOE.
+[https://doi.org/10.17882/79489](https://doi.org/10.17882/79489).
+
 **Interactive maps (US Tidal Wetland Cover Change)** are available at [GEE APP for tidal wetland covers in the US](https://gers.users.earthengine.app/view/tidalwetlandcover). 
 
 **Interactive maps (US Tidal marsh condition change and disturbance)** are available at [GEE APP for tidal marsh condition change in the US](https://ee-gers.projects.earthengine.app/view/ustidalmarsh). 
