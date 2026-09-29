@@ -30,11 +30,10 @@ Tide Model Driver source:
 
 ## Interactive maps
 
-- [North American 10 m tidal marsh maps (AlphaEarth + DECODE)](https://xiucheng.projects.earthengine.app/view/marsh10m)
-- [US tidal wetland cover change](https://gers.users.earthengine.app/view/tidalwetlandcover)
-- [US tidal marsh condition change and disturbance](https://ee-gers.projects.earthengine.app/view/ustidalmarsh)
-- [US mangrove disturbance, dieback, and recovery](https://gers.users.earthengine.app/view/tidalwetlandcover)
+- [US and Canada tidal marsh extent at 10 m](https://xiucheng.projects.earthengine.app/view/marsh10m)
 - [Canada tidal marsh dynamics](https://xiucheng.projects.earthengine.app/view/canadamarsh)
+- [US tidal wetland dynamics](https://gers.users.earthengine.app/view/tidalwetlandcover)
+- [US tidal marsh condition change](https://ee-gers.projects.earthengine.app/view/ustidalmarsh)
 
 ## Citation
 
