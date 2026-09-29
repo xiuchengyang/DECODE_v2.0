@@ -1,20 +1,18 @@
 clear; clc;
 close all;
 
-%% Download EOT20 tide model
+%% Download TMD functions and EOT20 tide model
 pathMain = fileparts(mfilename('fullpath'));
 addpath(pathMain);
+pathTMD = DownloadTMDFunctions(pathMain);
+addpath(genpath(pathTMD));
 tideModel = DownloadEOT20Model(pathMain);
 
 %% Paths
-addpath(genpath(fullfile(pathMain, 'TMD_functions')));
-
 pathObs = fullfile(pathMain, 'Examples', 'SatelliteObs');
 pathOutput = fullfile(pathMain, 'Examples', 'Output');
 pathSample = fullfile(pathMain, 'Examples', 'changeSample.csv');
-
-pathTideLookup = fullfile(pathMain, ...
-    'TMD_functions', 'Tide_Lookup.csv');
+pathTideLookup = fullfile(pathMain, 'Examples', 'Tide_Lookup.csv');
 
 if ~exist(pathOutput, 'dir'), mkdir(pathOutput); end
 

@@ -8,15 +8,25 @@ Algorithm for DEtection and Characterization of cOastal tiDal wEtlands change (D
 
 Please get in touch with Xiucheng Yang (xiucheng.yang@uconn.edu;xiuchengyang@uvic.ca), if you have any questions.
 
-## EOT20 tide model
+## TMD and EOT20
 
-The EOT20 ocean tide model is not included in this repository. When
-`Main_DECODE_BatchRun.m` is run for the first time,
-`DownloadEOT20Model.m` downloads and extracts the model from the official
-Tide Model Driver data link. The downloaded file is saved under
-`TMD_functions/TideModelData/` and is ignored by Git.
+The Tide Model Driver functions and EOT20 ocean tide model are not included
+in this repository. When `Main_DECODE_BatchRun.m` is run for the first time,
+`DownloadTMDFunctions.m` downloads the official Tide Model Driver source and
+`DownloadEOT20Model.m` downloads the EOT20 model. Both are saved under
+`TMD_functions/`, which is ignored by Git.
 
-Please cite:
+Tide Model Driver source:
+[https://github.com/chadagreene/Tide-Model-Driver](https://github.com/chadagreene/Tide-Model-Driver)
+
+Please cite Tide Model Driver:
+
+Greene, C. A., Erofeeva, S., Padman, L., Howard, S. L., Sutterley, T., and
+Egbert, G. (2024). Tide Model Driver for MATLAB. *Journal of Open Source
+Software*, 9(95), 6018.
+[https://doi.org/10.21105/joss.06018](https://doi.org/10.21105/joss.06018).
+
+Please cite EOT20:
 
 Hart-Davis, M. G., Piccioni, G., Dettmering, D., Schwatke, C., Passaro, M.,
 and Seitz, F. (2021). EOT20: a global ocean tide model from multi-mission
