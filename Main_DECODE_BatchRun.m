@@ -12,7 +12,7 @@ tideModel = DownloadEOT20Model(pathMain);
 pathObs = fullfile(pathMain, 'Examples', 'SatelliteObs');
 pathOutput = fullfile(pathMain, 'Examples', 'Output');
 pathSample = fullfile(pathMain, 'Examples', 'changeSample.csv');
-pathTideLookup = fullfile(pathMain, 'Examples', 'Tide_Lookup.csv');
+pathTideLookup = fullfile(pathMain, 'Tide_Lookup.csv');
 
 if ~exist(pathOutput, 'dir'), mkdir(pathOutput); end
 
