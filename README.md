@@ -10,12 +10,25 @@ and accounts for tidal effects during time-series modeling.
 - **DECODE v2 (continuously updated):** Current version.
 - **DECODE v1 (2024):** [Available from the GERS Lab](https://github.com/GERSL/DECODE).
 
+## Product
+
+**DECODE_USTidalMarsh_1988_2023** provides annual 30-m maps of tidal marsh extent and change across the conterminous United States for 1988–2023.
+
+Download the annual maps: [Google Drive](https://drive.google.com/drive/folders/1lCoYW63uiqmMVO_3abZFiIAiyZFR5zbj).
+
 ## Contact
 
 For questions, contact Xiucheng Yang at xiucheng.yang@uconn.edu or
 xiuchengyang@uvic.ca.
 
 ## Citation
+
+**[DECODE v2]** Yang, X., Knox, S. H., Qiu, S., Kroeger, K. D., Zhu, Z., Covington, S., and
+Zhu, Z. (2026). Tracking US Tidal Marsh Extent and Change with Dense Landsat
+Time Series and Comparisons with Existing Products. *Remote Sensing of
+Environment* (under review).
+
+Interactive map: [US tidal marsh condition change](https://ee-gers.projects.earthengine.app/view/ustidalmarsh).
 
 **[DECODE]** Yang, X., Zhu, Z., Qiu, S., Kroeger, K. D., Zhu, Z., and Covington, S. (2022).
 Detection and characterization of coastal tidal wetland change in the
@@ -28,13 +41,6 @@ wetlands. *Nature Communications*, 17, 4332.
 [https://doi.org/10.1038/s41467-026-71464-2](https://doi.org/10.1038/s41467-026-71464-2).
 
 Interactive map: [US tidal wetland dynamics](https://gers.users.earthengine.app/view/tidalwetlandcover).
-
-**[DECODE v2]** Yang, X., Knox, S. H., Qiu, S., Kroeger, K. D., Zhu, Z., Covington, S., and
-Zhu, Z. (2026). Tracking US Tidal Marsh Extent and Change with Dense Landsat
-Time Series and Comparisons with Existing Products. *Remote Sensing of
-Environment* (under review).
-
-Interactive map: [US tidal marsh condition change](https://ee-gers.projects.earthengine.app/view/ustidalmarsh).
 
 **[DECODE+AlphaEarth]** Yang, X., Li, M., Suh, J. W., Zhu, Z., Baum, J. K., and Knox, S. H. (2026).
 From Extent to Change: AlphaEarth and Time Series Analysis for Tidal Marsh
